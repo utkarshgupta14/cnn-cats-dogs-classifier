@@ -5,6 +5,9 @@ This was the first computer vision project I made after learning about CNNs from
 computer vision. My aim for this project was to learn practical implementation of CNNs
 as a classifier.
 
+The dataset can be found at "https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset". 
+This was an excellent and clean dataset which made working with it very easy.
+
 I used a dataset containing many thousands of images of cats and dogs. I selected 4000 of these images as my training set, and 200 each for 
 validation and testing sets. A custom CNN model was created using Keras. I tested various models for the same and chose the one which
 gave the best accuracy on the validation set after training for a few epochs.
